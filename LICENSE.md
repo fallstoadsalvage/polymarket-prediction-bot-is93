@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket module with smart Polymarket Module | trailing-stops + liquidity-provision. Featuring trailing-stops and liquidity-provision, it's the best choice for
 
 
 
